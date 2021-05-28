@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_marginTop="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#ffffff">
+    <TextView
+        android:id="@+id/tv_idexam"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:textSize="15dp"
+        android:textColor="#000000"/>
+    <TextView
+        android:id="@+id/tv_nameexam"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:textSize="15dp"
+        android:textColor="#000000"/>
+    <TextView
+        android:id="@+id/tv_dateexam"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:textSize="15dp"
+        android:textColor="#000000"/>
+    <TextView
+        android:id="@+id/tv_timeexam"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:textSize="15dp"
+        android:textColor="#000000"/>
+    <TextView
+        android:id="@+id/tv_statusexam"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:textSize="15dp"
+        android:textColor="#000000"/>
+</LinearLayout>
